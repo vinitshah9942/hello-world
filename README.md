@@ -1,2 +1,2 @@
 # hello-world
-This is a trial while learning how to use GitHub
+I have made changes to this read-me file during the tutorial on how to use GitHub.
